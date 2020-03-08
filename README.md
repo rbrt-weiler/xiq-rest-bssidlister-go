@@ -66,7 +66,7 @@ user.
 
 ## Authentication
 
-BssidLister uses the OAuth authentication model used by XIQ's API. Authentication requires Owner ID, Access Token, Client ID and Client Secret.
+BssidLister uses the OAuth authentication model used by XIQ's API. Authentication requires Owner ID, Access Token, Client ID, Client Secret and Redirect URI.
 
 ## Source
 
