@@ -31,7 +31,7 @@ Tested with [go1.13](https://golang.org/doc/go1.13).
 
 `BssidLister -h`:
 
-<pre>
+```text
 Available options:
   -accesstoken string
     	Access token to authenticate with XIQ
@@ -62,7 +62,7 @@ All options that take a value can be set via environment variables:
 Environment variables can also be configured via a file called .xiqenv,
 located in the current directory or in the home directory of the current
 user.
-</pre>
+```
 
 ## XIQ Hostname
 
