@@ -13,13 +13,7 @@ Other branches, for example for developing specific features, may be created and
 
 ## Dependencies
 
-BssidLister uses the modules [godotenv](https://github.com/joho/godotenv), [envordef](https://gitlab.com/rbrt-weiler/go-module-envordef) and [xiqrestclient](https://gitlab.com/rbrt-weiler/go-module-xiqrestclient). Execute...
-
-1. `go get -u github.com/joho/godotenv`
-1. `go get -u gitlab.com/rbrt-weiler/go-module-envordef`
-1. `go get -u gitlab.com/rbrt-weiler/go-module-xiqrestclient`
-
-...before running or compiling GenericNbiClient. All other dependencies are included in a standard Go installation.
+This tool uses Go modules to handle dependencies.
 
 ## Running / Compiling
 
